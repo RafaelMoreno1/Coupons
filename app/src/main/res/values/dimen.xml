@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ejemplo de definición de dimensión -->
+    <dimen name="common_padding_xlarge">16dp</dimen>
+    <!-- Puedes agregar más dimensiones aquí según tus necesidades -->
+    <dimen name="common_padding_default">8dp</dimen>
+</resources>
